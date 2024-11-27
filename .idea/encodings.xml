@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/A01_Stack/Stack.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/A01_Stack/TestStack.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/A02_Queue/Queue.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/A03_DoubleLinkedList/DoubleLinkedList.java" charset="windows-1252" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>

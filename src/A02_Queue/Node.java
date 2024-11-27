@@ -1,3 +1,4 @@
+//Sandro Fessl 26.11.2024
 package A02_Queue;
 
 public class Node<T>
